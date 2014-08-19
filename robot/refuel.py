@@ -10,4 +10,8 @@ from tealight.robot import (move,
 
 
 move()
+move()
+turn()
+
+
 
