@@ -8,6 +8,6 @@ from tealight.robot import (move,
 
 # Add your code here
 turn(1)
-distance=10
+distance=20
 for n in range(0, distance):
     move()
