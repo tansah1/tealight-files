@@ -15,4 +15,6 @@ turn(1)
 move()
 move()
 turn(1)
-
+move()
+move()
+move()
