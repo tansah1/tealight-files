@@ -11,7 +11,7 @@ from tealight.robot import (move,
 
 move()
 move()
-turn()
+turn(1)
 
 
 
